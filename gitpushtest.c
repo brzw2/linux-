@@ -3,6 +3,7 @@
 
 int main(){
 
-printf("git首次测试提交");
 
+printf("git测试修改与删除");
+printf("git测试");
 }
